@@ -7,3 +7,4 @@ How to use this repository
 5) Create a super user
 6) Go to the built-in admin site
 7) Create a group called "Moderators"
+8) Create a folder named "migrations", with a file name "__init__.py
